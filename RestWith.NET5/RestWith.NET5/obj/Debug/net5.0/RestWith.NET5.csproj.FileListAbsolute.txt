@@ -1,0 +1,272 @@
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.json
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.exe
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.deps.json
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.json
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.dev.json
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csprojAssemblyReference.cache
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfoInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CoreCompileInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.Manifest.cache
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.xml
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\scopedcss\bundle\RestWith.NET5.styles.css
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.RazorTargetAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\01_RestWith.NET5_ScaffoldViaVisualStudio\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.genruntimeconfig.cache
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.json
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.exe
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.deps.json
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.json
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.dev.json
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csprojAssemblyReference.cache
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfoInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CoreCompileInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.Manifest.cache
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.xml
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\scopedcss\bundle\RestWith.NET5.styles.css
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.RazorTargetAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\02_RestWith.NET5_Calculator\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.genruntimeconfig.cache
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.json
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.exe
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.deps.json
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.json
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.dev.json
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csprojAssemblyReference.cache
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfoInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CoreCompileInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.Manifest.cache
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.xml
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\scopedcss\bundle\RestWith.NET5.styles.css
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.RazorTargetAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\03_RestWith.NET5_Person\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.genruntimeconfig.cache
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.json
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.exe
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.deps.json
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.json
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.dev.json
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\MySqlConnector.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csprojAssemblyReference.cache
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfoInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CoreCompileInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.Manifest.cache
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.xml
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\scopedcss\bundle\RestWith.NET5.styles.css
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.RazorTargetAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CopyComplete
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\04_RestWith.NET5_UsingDataBase\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.genruntimeconfig.cache
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.json
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.exe
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.deps.json
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.json
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.dev.json
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\MySqlConnector.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfoInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CoreCompileInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.Manifest.cache
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.xml
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\scopedcss\bundle\RestWith.NET5.styles.css
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.RazorTargetAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CopyComplete
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\05_RestWith.NET5_VersioningTheAPI\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.genruntimeconfig.cache
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.json
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.exe
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.deps.json
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.json
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.dev.json
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\MySqlConnector.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csprojAssemblyReference.cache
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfoInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CoreCompileInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.Manifest.cache
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.xml
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\scopedcss\bundle\RestWith.NET5.styles.css
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.RazorTargetAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CopyComplete
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\06_RestWith.NET5_LayeringArchitecture\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.genruntimeconfig.cache
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.json
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.exe
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.deps.json
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.json
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.dev.json
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Evolve.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\MySqlConnector.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csprojAssemblyReference.cache
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfoInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CoreCompileInputs.cache
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.Manifest.cache
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.xml
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\scopedcss\bundle\RestWith.NET5.styles.css
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.RazorTargetAssemblyInfo.cache
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CopyComplete
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\ref\RestWith.NET5.dll
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.pdb
+D:\PROJETO API .NET\RestWith.NET5\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.genruntimeconfig.cache
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\appsettings.json
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.exe
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.deps.json
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.json
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.runtimeconfig.dev.json
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\ref\RestWith.NET5.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\RestWith.NET5.pdb
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Evolve.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfoInputs.cache
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.AssemblyInfo.cs
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CoreCompileInputs.cache
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.Manifest.cache
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\staticwebassets\RestWith.NET5.StaticWebAssets.xml
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\scopedcss\bundle\RestWith.NET5.styles.css
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.RazorTargetAssemblyInfo.cache
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csproj.CopyComplete
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\ref\RestWith.NET5.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.pdb
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.genruntimeconfig.cache
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Josivaldo\Desktop\07_RestWith.NET5_Migrations\RestWith.NET5\RestWith.NET5\obj\Debug\net5.0\RestWith.NET5.csprojAssemblyReference.cache
